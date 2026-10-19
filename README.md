@@ -11,9 +11,12 @@ Top Rated on Upwork · 100% Job Success · 3,600+ hours · 50+ projects.
 - 🧭 Fractional tech lead for small teams
 
 **Selected work** (full case studies at [dorokhov.dev/case-studies](https://dorokhov.dev/case-studies))
+- [Real-time crypto arbitrage engine](https://dorokhov.dev/case-studies/crypto-arbitrage-scanner): 50+ exchanges, ~80M calc/s, <0.5 ms repricing · TypeScript, Node.js worker threads, Next.js
+- [AI news aggregator](https://dorokhov.dev/case-studies/ai-news-aggregator): embeddings-based story clustering and LLM post generation for a US media startup · Symfony, PostgreSQL
+- [Multithreaded data-mining system](https://dorokhov.dev/case-studies/lead-generation-scraper): parallel workers with proxy rotation and retries, 1M+ records processed into leads · PHP, Yii 2, Selenium, Docker
+- [Link-building platform](https://dorokhov.dev/case-studies/seo-link-building-platform): anchor management, shared donor-site base, one-click placement and auto-publishing to a site network · PHP, MySQL
+- [Freelance marketplace job monitor](https://dorokhov.dev/case-studies/upwork-job-monitor): built on the platform's official GraphQL API, ~3,900 postings/day, ~500 targeted Telegram alerts · Next.js, TypeScript, Drizzle
 - [WooCommerce recurring payments gateway](https://dorokhov.dev/case-studies/woocommerce-recurring-payments): 7 payment methods, 0 card numbers stored ([code](https://github.com/Everhard/hitpay-payment-gateway-plus))
-- [Real-time crypto arbitrage scanner](https://dorokhov.dev/case-studies/crypto-arbitrage-scanner): ~80M calc/s, TypeScript + worker threads
-- [Content ordering system](https://dorokhov.dev/case-studies/content-ordering-system): iWriter API integration
 
 **Stack:** PHP · Laravel · WordPress/WooCommerce · TypeScript · Next.js · Node.js · PostgreSQL/MySQL · Redis · Docker
 
