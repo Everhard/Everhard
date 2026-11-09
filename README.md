@@ -8,15 +8,20 @@ Top Rated on Upwork · 100% Job Success · 3,600+ hours · 50+ projects.
 - 🛒 WooCommerce & payments: gateways, subscriptions, webhooks
 - 🚀 SaaS & MVPs: Laravel / Next.js, Stripe billing, Docker
 - 🤖 AI features: RAG search, in-app assistants, LLM workflows
-- 🧭 Fractional tech lead for small teams
+- 🧭 Fractional CTO / tech lead: architecture, roadmap, code review
 
 **Selected work** (full case studies at [dorokhov.dev/case-studies](https://dorokhov.dev/case-studies))
-- [Real-time crypto arbitrage engine](https://dorokhov.dev/case-studies/crypto-arbitrage-scanner): 50+ exchanges, ~80M calc/s, <0.5 ms repricing · TypeScript, Node.js worker threads, Next.js
-- [AI news aggregator](https://dorokhov.dev/case-studies/ai-news-aggregator): embeddings-based story clustering and LLM post generation for a US media startup · Symfony, PostgreSQL
-- [Multithreaded data-mining system](https://dorokhov.dev/case-studies/lead-generation-scraper): parallel workers with proxy rotation and retries, 1M+ records processed into leads · PHP, Yii 2, Selenium, Docker
-- [Link-building platform](https://dorokhov.dev/case-studies/seo-link-building-platform): anchor management, shared donor-site base, one-click placement and auto-publishing to a site network · PHP, MySQL
-- [Freelance marketplace job monitor](https://dorokhov.dev/case-studies/upwork-job-monitor): built on the platform's official GraphQL API, ~3,900 postings/day, ~500 targeted Telegram alerts · Next.js, TypeScript, Drizzle
-- [WooCommerce recurring payments gateway](https://dorokhov.dev/case-studies/woocommerce-recurring-payments): 7 payment methods, 0 card numbers stored ([code](https://github.com/Everhard/hitpay-payment-gateway-plus))
+
+| Project | Result |
+|---|---|
+| [Real-time crypto arbitrage engine](https://dorokhov.dev/case-studies/crypto-arbitrage-scanner)<br><sub>TypeScript · Node.js · Next.js</sub> | 50+ exchanges, ~80M calc/s, <0.5 ms repricing |
+| [Crawlmind: AI-native SEO audits](https://dorokhov.dev/case-studies/seo-audit-mcp-server)<br><sub>TypeScript · Node.js · MCP · SQLite</sub> | MCP server + CLI: internal link suggestions, crawl diffs, local embeddings · [code](https://github.com/Everhard/crawlmind) |
+| [AI news aggregator](https://dorokhov.dev/case-studies/ai-news-aggregator)<br><sub>Symfony · PostgreSQL</sub> | Embeddings story clustering and LLM posts for a US media startup |
+| [Multithreaded data-mining system](https://dorokhov.dev/case-studies/lead-generation-scraper)<br><sub>PHP · Yii 2 · Selenium · Docker</sub> | Parallel workers with proxy rotation, 1M+ records turned into leads |
+| [Link-building platform](https://dorokhov.dev/case-studies/seo-link-building-platform)<br><sub>PHP · MySQL</sub> | Anchor management, shared donor base, one-click placement |
+| [Freelance marketplace monitor](https://dorokhov.dev/case-studies/upwork-job-monitor)<br><sub>Next.js · TypeScript · Drizzle</sub> | ~3,900 postings/day → ~500 targeted Telegram alerts |
+| [WooCommerce recurring payments](https://dorokhov.dev/case-studies/woocommerce-recurring-payments)<br><sub>PHP · WooCommerce</sub> | 7 payment methods, 0 cards stored · [code](https://github.com/Everhard/hitpay-payment-gateway-plus) |
+
 
 **Stack:** PHP · Laravel · WordPress/WooCommerce · TypeScript · Next.js · Node.js · PostgreSQL/MySQL · Redis · Docker
 
